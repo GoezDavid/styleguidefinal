@@ -1,0 +1,1 @@
+{"mappings":"AAAA;EACE;EACA;EACA","sources":["src/assets/scss/modules/boxes.scss"],"sourcesContent":[".container{\r\n  width: 100%;\r\n  max-width: 900px;\r\n  margin: auto;\r\n}"],"names":[],"version":3,"file":"index.5995e3d1.css.map","sourceRoot":"/__parcel_source_root/"}

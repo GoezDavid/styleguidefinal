@@ -1,0 +1,1 @@
+{"mappings":"AAAA;EACE;;;AAGF;EACE;EACA","sources":["src/assets/scss/app.scss"],"sourcesContent":["body{\r\n  background: #22292f;\r\n}\r\n\r\n.container{\r\n  background: #fff;\r\n  padding: 2em;\r\n}"],"names":[],"version":3,"file":"index.46060a5c.css.map","sourceRoot":"/__parcel_source_root/"}
